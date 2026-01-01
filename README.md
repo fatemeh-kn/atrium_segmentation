@@ -8,7 +8,7 @@ The workflow includes data loading from NIfTI files, preprocessing, augmentation
 The project is inspired by medical image segmentation tasks such as those found in the **Medical Segmentation Decathlon (Task02: Heart)**.
 
 ## Methodology
-1. Load 3D cardiac MRI volumes (`.nii.gz`)
+1. Load 3D cardiac MRI volumes 
 2. Slice volumes into 2D images
 3. Normalize and standardize intensity values
 4. Apply data augmentation
